@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "request-promise": "^4.2.4",
     "telegraf": "^3.27.1",
     "ws": "^6.2.0"
   }
